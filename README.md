@@ -1,1 +1,2 @@
-# ejercicios-python
+# ejercicios-pythonç
+# Cristian Solano - Santiago Toledo
