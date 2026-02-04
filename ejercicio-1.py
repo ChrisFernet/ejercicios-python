@@ -6,7 +6,6 @@ def interes():
 
 años = int(input("Ingrese el plazo a pagar en años: "))
 
-
 while capital < 0:
         print("Monto invàlido.") 
 
